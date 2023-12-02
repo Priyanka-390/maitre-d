@@ -20,7 +20,7 @@ const Sixthsec = () => {
                             <textarea name="text" id="" cols="30" rows="10" placeholder='Message' className='form-text h-71 ff-work fw-400 fs-16 bs-black opacity-70 pb-10 pt-24 w-100 resize-none'></textarea>
                         </form>
                         <div className='d-flex justify-content-md-start align-items-md-start'>
-                            <button className='bs-white ff-work fs-20 fw-700 mt-md-59 submitbtn2'>Submit</button>
+                            <button className='bs-white ff-work cursor-pointer fs-20 fw-700 mt-md-59 submitbtn2'>Submit</button>
                         </div>
                     </div>
                     <div className='col-md-6 col-12'>

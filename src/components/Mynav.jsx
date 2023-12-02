@@ -36,7 +36,7 @@ const Mynav = () => {
             <h1 className='bs-black fs-61 ff-work fw-800 pt-md-100 pt-30 text-center max-w-826 '>Maitre D – Store Management for Barbers</h1>
           </div>
           <div className='d-flex justify-content-center pt-30'>
-            <button className='bs-white ff-work fs-20 fw-700 mt-md-59 px-37 py-12 submitbtn'>Submit</button>
+            <button className='bs-white ff-work fs-20 cursor-pointer fw-700 mt-md-59 px-37 py-12 submitbtn'>Submit</button>
           </div>
           <img src={lineroll} alt="lineroll" className='pos-absolute d-none d-md-block' />
         </div>

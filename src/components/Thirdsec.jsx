@@ -37,7 +37,7 @@ const Thirdsec = () => {
                                     </svg>
                                 </div>
                                 <h2 className='text-center fs-24 fw-700 ff-work bs-black'>Easy for Clients</h2>
-                                <p className='text-center fs-16 fw-400 ff-work bs-black opacity-70 pt-10'>Allow Clients to sign up for services quickly and effortlessly</p>
+                                <p className='text-center fs-16 fw-400 ff-work bs-black opacity-70 pt-10 lh-154'>Allow Clients to sign up for services quickly and effortlessly</p>
                             </div>
                         </div>
                         <div className="col-md-4 col-sm-6 col-12 d-flex justify-content-center pt-md-0 pt-40 ">
@@ -56,7 +56,7 @@ const Thirdsec = () => {
                                     </svg>
                                 </div>
                                 <h2 className='text-center fs-24 fw-700 ff-work bs-black'>Full Visibility</h2>
-                                <p className='text-center fs-16 fw-400 ff-work bs-black opacity-70 pt-10'>See everything inside your business in real time.</p>
+                                <p className='text-center fs-16 fw-400 ff-work bs-black lh-154 opacity-70 pt-10'>See everything inside your business in real time.</p>
                             </div>
                         </div>
                         <div className="col-md-4  col-12 d-flex justify-content-center pt-md-0 pt-40 ">
@@ -86,12 +86,12 @@ const Thirdsec = () => {
                                     </svg>
                                 </div>
                                 <h2 className='text-center fs-24 fw-700 ff-work bs-black'>Cost Effective</h2>
-                                <p className='text-center fs-16 fw-400 ff-work bs-black opacity-70 pt-10'>Maitre D is provided at an an amazing, no-contract price.</p>
+                                <p className='text-center fs-16 fw-400 ff-work lh-154 bs-black opacity-70 pt-10'>Maitre D is provided at an an amazing, no-contract price.</p>
                             </div>
                         </div>
                     </div>
                     <div className='d-flex justify-content-center align-items-center'>
-                        <button className='bs-white ff-work fs-20 fw-700 mt-md-59 submitbtn2 text-nowrap'>Sign Up Today</button>
+                        <button className='bs-white ff-work fs-20 fw-700 mt-md-59 submitbtn2 cursor-pointer text-nowrap'>Sign Up Today</button>
                     </div>
                 </div>
             </section>

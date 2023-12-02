@@ -11,7 +11,7 @@ const Fifthsec = () => {
                         <div className="col-md-6 col-12 d-flex justify-content-center flex-col align-items-md-start align-items-center">
                             <p className='txt-gradient fs-16 ff-work text-center text-md-start  fw-400 line2'>Pricing</p>
                             <h2 className='bs-black ff-work fs-40 text-center text-md-start fw-700 max-w-335 pt-10'>Simple pricing for <span className='txt-gradient'>everyone</span> </h2>
-                            <p className='bs-black fs-16 fw-400 opacity-70 ff-work text-center text-md-start max-w-392 pt-14'>Praesent tempor arcu ac risus finibus finibus. In in pretium quam. Nulla ac rutrum urna. Sed id ex eu leo eleifend molestie. Integer luctus purus id enim pretium, sit amet finibus nisi auctor. Nunc a libero ut felis porttitor mattis ut sed mauris. Proin ipsum nisi, fermentum rutrum </p>
+                            <p className='bs-black fs-16 fw-400 opacity-70 ff-work text-center text-md-start max-w-392 pt-14 lh-154'>Praesent tempor arcu ac risus finibus finibus. In in pretium quam. Nulla ac rutrum urna. Sed id ex eu leo eleifend molestie. Integer luctus purus id enim pretium, sit amet finibus nisi auctor. Nunc a libero ut felis porttitor mattis ut sed mauris. Proin ipsum nisi, fermentum rutrum </p>
                         </div>
                         <div className="col-md-6 col-12 d-flex justify-content-center flex-col align-items-md-start align-items-center relative">
                             <button className='platinum-btn platium-rotate d-xl-block d-none'>Platinum</button>
@@ -126,7 +126,7 @@ const Fifthsec = () => {
                                     </svg></span>
                                     <p className='pl-13 ff-work fs-20 fw-400 bs-black opacity-70'>Analytics and Reporting</p>
                                 </div>
-                                <button className='bs-white ff-work fs-20 fw-700 mt-59 submitbtn text-nowrap px-128 py-12'>Buy Now</button>
+                                <button className='bs-white ff-work fs-20 fw-700 mt-59 cursor-pointer submitbtn text-nowrap px-128 py-12'>Buy Now</button>
 
                             </div>
                         </div>
